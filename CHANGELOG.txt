@@ -1,0 +1,9 @@
+Change Log
+==========
+
+1.0.0 (23/01/2022)
+-------------------
+- First Tested and Stable Release
+- Fix Wrong byte input like \\ to \
+- Convert word to decimal
+- Return and arry of decimal
